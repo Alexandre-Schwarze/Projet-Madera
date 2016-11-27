@@ -1,0 +1,84 @@
+Date Actuel Réunion 5 : 19/11/2016
+
+Release 0.1 : Date de fin 28/11
+
+> Ce qui a été fait :
+Gestion Projet (Projets / Plans) (100%)
+Paramètre plan (100%)
+Modal Select (100%)
+
+> Ce qui reste à faire : 
+Authentification (80%)
+Gestion Devis (5%)
+Modélisation (20%)
+Gestion Client (Listes des clients / Editer Client) (20%)
+BDD + Jeu données (0%)
+---------
+Release 0.2 : Date de fin 09/01 (écart : 6 semaines)
+Cad
+Model
+---------
+Release 0.3 : Date de fin 13/02 (écart : 5 semaines)
+Couche Métier (1/2)
+(ensemble des règles de gestion métier)
+Synchro (1/2)
+---------
+Release 0.4 : Date de fin 20/03 (écart : 6 semaines)
+Couche Métier (2/2)
+(ensemble des règles de gestion métier)
+Synchro (2/2)
+---------
+Release 0.5 : Date de fin 06/04 (écart : 2 semaines)
+Tests
+
+Alex : 
+- Traiter les commentaires de l'équipe sur GitHub
+- Appliquer le design défini dans GestionProjet dans les vues ParametresPlan
+Gabi :
+- Terminer la vue gestion devis et fournir un jeu de données pour l'équipe
+David : 
+- Terminer la vue modélisation
+Christophe : 
+- Terminer la vue liste clients et la création d'un client
+
+Reste encore 19 semaines
+
+
+Date Actuel Réunion 6 : 27/11/2016
+
+Release 0.1 : Date de fin 28/11
+
+> Ce qui a été fait :
+Gestion Projet (Projets / Plans) (100%)
+Paramètre plan (100%)
+Authentification (100%)
+Gestion Client (Listes des clients / Editer Client) (100%)
+Modal Select (100%)
+
+> Ce qui reste à faire : 
+Gestion Devis (5%)
+Modélisation (65%)
+BDD + Jeu données (0%)
+
+---------
+Release 0.2 : Date de fin 09/01 (écart : 6 semaines)
+Cad
+Model
+
+> Ce qui reste à faire : 
+Gestion Devis (5%)
+Modélisation (65%)
+BDD + Jeu données (0%)
+---------
+
+Alex : 
+- Appliquer le design défini dans GestionProjet dans les vues ParametresPlan
+- Fonctionnalité Modélisation CAD & Model
+Gabi :
+- Terminer la vue gestion devis et fournir un jeu de données pour l'équipe avec la structure bdd fonctionnel (deadline 07/12)
+- Fonctionnalité Gestion Devis CAD & Model
+David : 
+- Terminer la vue modélisation
+- Fonctionnalité Modélisation CAD & Model
+Christophe : 
+- Fonctionnalité Gestion Projet & Client, Authentification CAD & Model
