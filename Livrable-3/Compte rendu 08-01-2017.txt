@@ -1,0 +1,72 @@
+Date Actuel Réunion 7 : 08/01/2017
+
+Release 0.2 : Date de fin 09/01
+Cad
+Model
+
+> Ce qui a été fait :
+BDD + Jeu données (90%)
+CAD / Model -> Client (100%)
+CAD / Model -> Commercial (100%)
+CAD / Model -> Composant (100%)
+CAD / Model -> CoupePrincipe (100%)
+CAD / Model -> Couverture (100%)
+CAD / Model -> Devis (100%) -----------------
+CAD / Model -> FamilleComposant (100%)
+CAD / Model -> Gamme (100%)
+CAD / Model -> Metamodule (100%)
+CAD / Model -> MetaSlot (100%)
+CAD / Model -> Module (100%)
+CAD / Model -> Plan (100%)
+CAD / Model -> Plancher (100%)
+CAD / Model -> Projet (95%) ---------------
+CAD / Model -> Slot (100%)
+
+> Ce qui reste à faire : 
+CAD / Model -> Projet (95%)
+Modélisation (70%)
+BDD + Jeu données (90%)
+---------
+
+Release 0.3 : Date de fin 13/02 (écart : 5 semaines)
+Couche Métier (1/2)
+(ensemble des règles de gestion métier)
+Synchro (1/2)
+
+Alex : 
+- Résoudre petite erreur dans le planCAD
+- test cad / model
+- Synchro
+
+Gabi : 
+- Revoir le script et changer les valeurs date en text
+- Couche métiers
+- Vues / Ctrl dynamique
+
+David : 
+- Terminer la vue modélisation
+
+Christophe : 
+- Résoudre petite erreur dans le projetCAD
+- Couche métiers
+- Vues / Ctrl dynamique
+
+Voir plus tard : Ecran de chargement : après authentification, ...
+
+---------------------------------------------------------------------
+Règles métiers :
+
+Commercial :
+- Données du serveur sql en fonction de qui se connecte
+
+Client : 
+- Test champs formulaire client
+
+Projet :
+-
+
+Plan :
+-
+
+Devis :
+-
