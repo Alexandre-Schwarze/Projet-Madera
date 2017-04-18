@@ -1,0 +1,12 @@
+Bugs connus au sein de l'application :
+
+	- "A" Non ajout de nouveau client dans la liste de création de projet		V
+	- "A" Lors de la copie d'un plan, les modules du plan ne sont pas copiés	V
+	- "A" Prise en compte des gammes						V
+	- "A" Export du devis en PDF							X
+
+	- "D" Les dates de modifications						V
+	- "D" Calcul du nombre de modules dans un devis					X
+	- "D" Statut du devis								X
+	- "D" La synchro en fonction des dates						X
+	- "D" Demande de renseigner les murs extérieurs alors que ceux-ci le sont	X
