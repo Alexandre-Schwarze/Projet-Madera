@@ -1,2 +1,2 @@
-# Projet-Madera
-Repository documentaire du projet fil rouge MADERA, CESI ALTERNANCE promo 2015
+# Projet-MMB
+Management tool for architectural plans
